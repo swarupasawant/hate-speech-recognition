@@ -5,8 +5,13 @@ The hate speech recognition project aimed to develop an intelligent system capab
 Key Skills Utilized:
 
 Natural Language Processing (NLP)
+
 Text preprocessing and feature engineering
-Machine learning algorithms (e.g., SVM, Naive Bayes, RNN)
+
+Machine learning algorithms (e.g. RNN)
+
 Model training, evaluation, and optimization
+
 Data collection, cleaning, and curation
+
 Performance metrics and evaluation techniques
